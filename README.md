@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Saeed 👋</h1>
 
-<!--
-**Sa3ed-031/Sa3ed-031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%E2%80%A2+Tailwind+%E2%80%A2+Firebase;I+build+fast%2C+modern+websites+%26+web+apps" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://sa3ed-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sa3ed-al-haj-hussein/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:saeedalhajwork@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 💻 Front-End Developer building responsive, component-based web apps with **React.js**
+- 🎓 Software Engineering student at **Homs University**
+- 🔥 Currently building a **real-time chat app** with React & Firebase
+- 🌱 Currently learning **TypeScript**
+- 🤝 Open to **freelance projects** and **full-time roles**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,materialui,firebase,vite,git,github,vscode&perline=7" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **Rennello** | Platform connecting customers with local workshops, with full role-based access (team of 6) | React, Redux, Tailwind, MUI | [[Live](https://rennello.netlify.app)] · [Code](#) |
+| **ZMovie** | Movie & TV discovery platform with filtering and a watchlist | React, Tailwind, Axios, MUI | [[Live](https://sa3ed-zmovie.netlify.app)] · [Code](#) |
+| **Archi Carpenter** | Responsive business website with interactive map and animations | React, Leaflet, GSAP | [[Live]([url](https://sa3ed-archi-carpenter.netlify.app/))] · [Code](#) |
+| **WhatsApp UI Clone** | Multi-page chat experience with group messaging | React, MUI | [[Live]([url](https://sa3ed-chatsapp-clone-project.netlify.app/))] · [Code](#) |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sa3ed-031&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa3ed-031&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin,c%23" />
+</p>
+
+---
+
+<p align="center">
+  <i>Let's build something great together.</i> ✨
+</p>
