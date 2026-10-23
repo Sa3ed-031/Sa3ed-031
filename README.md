@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saeed 👋</h1>
+<h1 align="center">Hi, I'm Saeed</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%E2%80%A2+Tailwind+%E2%80%A2+Firebase;I+build+fast%2C+modern+websites+%26+web+apps" alt="Typing SVG" />
@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-  <i>Let's build something great together.</i> ✨
+  <i>Let's build something great together.</i>
 </p>
