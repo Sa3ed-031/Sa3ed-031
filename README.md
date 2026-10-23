@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 - 💻 Front-End Developer building responsive, component-based web apps with **React.js**
 - 🎓 Software Engineering student at **Homs University**
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,materialui,firebase,vite,git,github,vscode&perline=7" />
@@ -30,18 +30,18 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
 | **Rennello** | Platform connecting customers with local workshops, with full role-based access (team of 6) | React, Redux, Tailwind, MUI | [[Live](https://rennello.netlify.app)] · [Code](#) |
 | **ZMovie** | Movie & TV discovery platform with filtering and a watchlist | React, Tailwind, Axios, MUI | [[Live](https://sa3ed-zmovie.netlify.app)] · [Code](#) |
 | **Archi Carpenter** | Responsive business website with interactive map and animations | React, Leaflet, GSAP | [[Live](https://sa3ed-archi-carpenter.netlify.app)] · [Code](#) |
-| **WhatsApp UI Clone** | Multi-page chat experience with group messaging | React, MUI | [[Live]([url](https://sa3ed-chatsapp-clone-project.netlify.app/))] · [Code](#) |
+| **WhatsApp UI Clone** | Multi-page chat experience with group messaging | React, MUI | [[Live](https://sa3ed-chatsapp-clone-project.netlify.app)] · [Code](#) |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sa3ed-031&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
