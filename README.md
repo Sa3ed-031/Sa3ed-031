@@ -25,7 +25,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,materialui,firebase,vite,git,github,vscode&perline=7&v=2" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,materialui,firebase,vite,git,github,vscode&perline=7&v=3" />
 </p>
 
 ---
@@ -44,8 +44,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sa3ed-031&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa3ed-031&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin,c%23&v=2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sa3ed-031&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=3" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa3ed-031&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin,c%23&v=3" />
 </p>
 
 ---
