@@ -34,7 +34,6 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-
 | **Portfolio** | Personal portfolio of Saeed Al-Haj Hussein, Front-End Developer. Built with React, showcasing projects, services and a working contact form | React, Tailwind, MUI, EmailJS | [[Live](https://sa3ed-portfolio.netlify.app)] · [[Code](https://github.com/Sa3ed-031/sa3ed-portfolio.git)] |
 
 | **Rennello** | Platform connecting customers with local workshops, with full role-based access (team of 6) | React, Redux, Tailwind, MUI | [[Live](https://rennello.netlify.app)] · [Code](#) |
