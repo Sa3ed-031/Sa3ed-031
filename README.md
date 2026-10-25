@@ -25,7 +25,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,materialui,firebase,vite,git,github,vscode&perline=7&v=4" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,materialui,firebase,vite,git,github,vscode&perline=7&v=2" />
 </p>
 
 ---
@@ -34,8 +34,10 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
+
+| **Portfolio** | Personal portfolio of Saeed Al-Haj Hussein, Front-End Developer. Built with React, showcasing projects, services and a working contact form | React, Tailwind, MUI, EmailJS | [[Live](https://sa3ed-portfolio.netlify.app)] · [[Code](https://github.com/Sa3ed-031/sa3ed-portfolio.git)] |
 | **Rennello** | Platform connecting customers with local workshops, with full role-based access (team of 6) | React, Redux, Tailwind, MUI | [[Live](https://rennello.netlify.app)] · [Code](#) |
-| **ZMovie** | Movie & TV discovery platform with filtering and a watchlist | React, Tailwind, Axios, MUI | [[Live](https://sa3ed-zmovie.netlify.app)] · [Code](#) |
+| **ZMovie** | Movie & TV discovery platform with filtering and a watchlist | React, Tailwind, Axios, MUI | [[Live](https://sa3ed-zmovie.netlify.app)] · [[Code](https://github.com/Sa3ed-031/zmovie.git)] |
 | **Archi Carpenter** | Responsive business website with interactive map and animations | React, Leaflet, GSAP | [[Live](https://sa3ed-archi-carpenter.netlify.app)] · [[Code](https://github.com/Sa3ed-031/Archi-Carpenter.git)] |
 | **WhatsApp UI Clone** | Multi-page chat experience with group messaging | React, MUI | [[Live](https://sa3ed-chatsapp-clone-project.netlify.app)] · [Code](#) |
 
@@ -44,8 +46,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sa3ed-031&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=3" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa3ed-031&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin,c%23&v=3" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sa3ed-031&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa3ed-031&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin,c%23&v=2" />
 </p>
 
 ---
