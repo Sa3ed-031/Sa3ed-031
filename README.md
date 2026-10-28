@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sa3ed-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://sa3ed-031.github.io"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sa3ed-al-haj-hussein/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:saeedalhajwork@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -34,7 +34,7 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Portfolio** | Personal portfolio of Saeed Al-Haj Hussein, Front-End Developer. Built with React, showcasing projects, services and a working contact form | React, Tailwind, MUI, EmailJS | [Live](https://sa3ed-portfolio.netlify.app) · [Code](https://github.com/Sa3ed-031/sa3ed-portfolio.git) |
+| **Portfolio** | Personal portfolio of Saeed Al-Haj Hussein, Front-End Developer. Built with React, showcasing projects, services and a working contact form | React, Tailwind, MUI, EmailJS | [Live](https://sa3ed-031.github.io) · [Code](https://github.com/Sa3ed-031/sa3ed-031.github.io.git) |
 | **Rennello** | Platform connecting customers with local workshops, with full role-based access (team of 6) | React, Redux, Tailwind, MUI | [Live](https://rennello.netlify.app) |
 | **ZMovie** | Movie & TV discovery platform with filtering and a watchlist | React, Tailwind, Axios, MUI | [Live](https://sa3ed-zmovie.netlify.app) · [Code](https://github.com/Sa3ed-031/zmovie.git) |
 | **Archi Carpenter** | Responsive business website with interactive map and animations | React, Leaflet, GSAP | [Live](https://sa3ed-archi-carpenter.netlify.app) · [Code](https://github.com/Sa3ed-031/Archi-Carpenter.git) |
