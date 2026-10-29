@@ -45,8 +45,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sa3ed-031&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&v=1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa3ed-031&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin,c%23&v=1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sa3ed-031&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa3ed-031&layout=compact&theme=tokyonight&hide_border=true&hide=kotlin,c%23" />
 </p>
 
 ---
