@@ -17,7 +17,7 @@
 - 💻 Front-End Developer building responsive, component-based web apps with **React.js**
 - 🎓 Software Engineering student at **Homs University**
 - 🔥 Currently building a **real-time chat app** with React & Firebase
-- 🌱 Currently learning **TypeScript**
+- 🌱 Currently learning **TypeScript & Next.js**
 - 🤝 Open to **freelance projects** and **full-time roles**
 
 ---
