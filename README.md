@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Saeed</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%E2%80%A2+Tailwind+%E2%80%A2+Firebase;I+build+fast%2C+modern+websites+%26+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind;I+build+fast%2C+modern+websites+%26+web+apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ### About Me
 
-- 💻 Front-End Developer building responsive, component-based web apps with **React.js**
+- 💻 Front-End Developer building fast, responsive websites and web apps with **React**, **Next.js** and **TypeScript**
 - 🎓 Software Engineering student at **Homs University**
-- 🔥 Currently building a **real-time chat app** with React & Firebase
-- 🌱 Currently learning **TypeScript & Next.js**
+- 🚀 Latest: a reusable **Next.js landing page template**, where a new page takes three config files
+- 🔥 Currently converting my **QR digital menu** project to TypeScript
 - 🤝 Open to **freelance projects** and **full-time roles**
 
 ---
@@ -25,7 +25,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,materialui,firebase,vite,git,github,vscode&perline=7&v=1" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,materialui,firebase,vite,githubactions,git,github,vscode&perline=8" />
 </p>
 
 ---
@@ -34,11 +34,13 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Portfolio** | Personal portfolio of Saeed Al-Haj Hussein, Front-End Developer. Built with React, showcasing projects, services and a working contact form | React, Tailwind, MUI, EmailJS | [Live](https://sa3ed-031.github.io) · [Code](https://github.com/Sa3ed-031/sa3ed-031.github.io.git) |
-| **Rennello** | Platform connecting customers with local workshops, with full role-based access (team of 6) | React, Redux, Tailwind, MUI | [Live](https://rennello.netlify.app) |
-| **ZMovie** | Movie & TV discovery platform with filtering and a watchlist | React, Tailwind, Axios, MUI | [Live](https://sa3ed-zmovie.netlify.app) · [Code](https://github.com/Sa3ed-031/zmovie.git) |
-| **Archi Carpenter** | Responsive business website with interactive map and animations | React, Leaflet, GSAP | [Live](https://sa3ed-archi-carpenter.netlify.app) · [Code](https://github.com/Sa3ed-031/Archi-Carpenter.git) |
-| **WhatsApp UI Clone** | Multi-page chat experience with group messaging | React, MUI | [Live](https://sa3ed-chatsapp.netlify.app) · [Code](https://github.com/Sa3ed-031/whatsapp-clone.git) |
+| **Landing Template** | Reusable landing page template: a new page takes three typed config files (theme, fonts, content). RTL & LTR, auto-deploy with GitHub Actions | Next.js, TypeScript, Tailwind, Motion | [Live](https://sa3ed-031.github.io/menu-landing/) · [Code](https://github.com/Sa3ed-031/landing-template) |
+| **Tech Insight** | Tech blog powered by the DEV Community API, with list & grid views, filters, bookmarks and light/dark mode | React, React Router, Context API, CSS Modules | [Live](https://sa3ed-tech-insights-articles.netlify.app) · [Code](https://github.com/Sa3ed-031/tech-insight-articles) |
+| **Rennello** | Platform connecting customers with local workshops, with role-based access (team of 6) | React, Redux, Tailwind, MUI | Private team project |
+| **Archi Carpenter** | Responsive business website concept with an interactive map and animations | React, Leaflet, GSAP | [Live](https://sa3ed-archi-carpenter.netlify.app) · [Code](https://github.com/Sa3ed-031/Archi-Carpenter) |
+| **WhatsApp UI Clone** | Chat app with private chats, groups and broadcast messaging, running in the browser | React, MUI | [Live](https://sa3ed-chatsapp.netlify.app) · [Code](https://github.com/Sa3ed-031/whatsapp-clone) |
+| **Portfolio** | My personal portfolio with project filters, flip cards and a working contact form | React, Tailwind, Motion, EmailJS | [Live](https://sa3ed-031.github.io) · [Code](https://github.com/Sa3ed-031/sa3ed-031.github.io) |
+| **ZMovie** | Movie & TV discovery platform with search, filters, trailers and a watchlist | React, Tailwind, Axios, MUI | [Code](https://github.com/Sa3ed-031/zmovie) |
 
 ---
 
