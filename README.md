@@ -30,6 +30,10 @@
 
 ---
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa3ed-031&layout=compact&hide=css,html,scss&theme=tokyonight&hide_border=true" />
+</p>
+
 ### Featured Projects
 
 | Project | Description | Stack | Links |
